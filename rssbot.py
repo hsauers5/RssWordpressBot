@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 FEEDS_LIST = "feeds.txt"
 WP_CREDS = "wp-creds.txt"  # format as username:password
-WP_URL = "https://hsauers.000webhostapp.com"
+WP_URL = "https://wordpress.example.com"
 
 
 # returns an array of strings from the specified file

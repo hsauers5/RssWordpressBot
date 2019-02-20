@@ -1,0 +1,5 @@
+http://articlefeeds.nasdaq.com/nasdaq/categories?category=Technology
+http://articlefeeds.nasdaq.com/nasdaq/categories?category=Stocks
+http://articlefeeds.nasdaq.com/nasdaq/categories?category=Investing+Ideas
+http://articlefeeds.nasdaq.com/nasdaq/categories?category=ETFs
+http://articlefeeds.nasdaq.com/nasdaq/categories?category=Options
